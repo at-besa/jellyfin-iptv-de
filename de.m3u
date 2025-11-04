@@ -1,95 +1,95 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="123tv.de@SD",1-2-3 TV (270p)
+#EXTINF:-1 tvg-id="123tv.de@SD",1-2-3 TV
 https://123tv-mx1.flex-cdn.net/index.m3u8
-#EXTINF:-1 tvg-id="3sat.de@HD",3sat HD (1080p)
+#EXTINF:-1 tvg-id="3sat.de@HD",3sat HD
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
-#EXTINF:-1 tvg-id="ANIMALKINGDOM.de@SD",ANIMAL KINGDOM (720p)
+#EXTINF:-1 tvg-id="ANIMALKINGDOM.de@SD",ANIMAL KINGDOM
 https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
-#EXTINF:-1 tvg-id="AnixeHDSerie.de@SD",Anixe HD Serie (360p)
+#EXTINF:-1 tvg-id="AnixeHDSerie.de@SD",Anixe HD Serie
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 tvg-id="ARDalpha.de@SD",ARD-alpha (720p)
+#EXTINF:-1 tvg-id="ARDalpha.de@SD",ARD-alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="ARDalpha.de@HD",ARD-alpha HD
 https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8
-#EXTINF:-1 tvg-id="AristoTV.de@SD",Aristo TV (360p)
+#EXTINF:-1 tvg-id="AristoTV.de@SD",Aristo TV
 https://ma.anixa.tv/clips/stream/aristo/index.m3u8
 #EXTINF:-1 tvg-id="CiraTV.de@SD",Cira TV
 https://cira-tv.akamaized.net/hls/stream_0.m3u8
-#EXTINF:-1 tvg-id="DasErste.de@HD",Das Erste HD (1080p)
+#EXTINF:-1 tvg-id="DasErste.de@HD",Das Erste HD
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
-#EXTINF:-1 tvg-id="DASDING908.de@SD",DASDING 90.8 (720p)
+#EXTINF:-1 tvg-id="DASDING908.de@SD",DASDING 90.8
 https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
-#EXTINF:-1 tvg-id="DeluxeDance.de@SD",Deluxe Dance (1080p)
+#EXTINF:-1 tvg-id="DeluxeDance.de@SD",Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 tvg-id="DeluxeLounge.de@SD",Deluxe Lounge (720p)
+#EXTINF:-1 tvg-id="DeluxeLounge.de@SD",Deluxe Lounge
 https://jmp2.uk/stvp-CHAJ0500413A
-#EXTINF:-1 tvg-id="DeluxeMusic.de@SD",Deluxe Music (720p)
+#EXTINF:-1 tvg-id="DeluxeMusic.de@SD",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 tvg-id="DeluxeMusic.de@SD",Deluxe Music
 https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8
-#EXTINF:-1 tvg-id="DeluxeRap.de@SD",Deluxe Rap (1080p)
+#EXTINF:-1 tvg-id="DeluxeRap.de@SD",Deluxe Rap
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.de@SD",Disney Channel (576p)
+#EXTINF:-1 tvg-id="DisneyChannel.de@SD",Disney Channel
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
-#EXTINF:-1 tvg-id="Dokusat.de@SD",Dokusat (1080p)
+#EXTINF:-1 tvg-id="Dokusat.de@SD",Dokusat
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-#EXTINF:-1 tvg-id="EchtJetztTV.de@SD",EchtJetzt TV (720p)
+#EXTINF:-1 tvg-id="EchtJetztTV.de@SD",EchtJetzt TV
 https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="FolxMusicTelevision.de@SD",FOLX Music (1080p)
+#EXTINF:-1 tvg-id="FolxMusicTelevision.de@SD",FOLX Music
 https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8
-#EXTINF:-1 tvg-id="GoodSound.de@SD",Good-Sound (720p)
+#EXTINF:-1 tvg-id="GoodSound.de@SD",Good-Sound
 http://148.251.76.72:8081/goodsound/goodsound.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="hrfernsehen.de@SD",hr-fernsehen (1080p)
+#EXTINF:-1 tvg-id="hrfernsehen.de@SD",hr-fernsehen
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
-#EXTINF:-1 tvg-id="HSE.de@SD",HSE (1080p)
+#EXTINF:-1 tvg-id="HSE.de@SD",HSE
 https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
-#EXTINF:-1 tvg-id="kabeleins.de@SD",kabel eins (576p)
+#EXTINF:-1 tvg-id="kabeleins.de@SD",kabel eins
 https://strm.hdtvizlecanli.com/live/kabel1.m3u8
 #EXTINF:-1 tvg-id="KiKA.de@HD",KiKA HD
 https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
-#EXTINF:-1 tvg-id="KulturMD.de@SD",KulturMD (1080p)
+#EXTINF:-1 tvg-id="KulturMD.de@SD",KulturMD
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
-#EXTINF:-1 tvg-id="LTV.de@SD",L-TV (720p)
+#EXTINF:-1 tvg-id="LTV.de@SD",L-TV
 https://live2.telvi.de/hls/l-tv_s1.m3u8
-#EXTINF:-1 tvg-id="MagentaMusik360.de@SD",Magenta Musik 360 (1080p)
+#EXTINF:-1 tvg-id="MagentaMusik360.de@SD",Magenta Musik 360
 https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8
-#EXTINF:-1 tvg-id="MCTV.de@HD",MC TV (720p)
+#EXTINF:-1 tvg-id="MCTV.de@HD",MC TV
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live
-#EXTINF:-1 tvg-id="MDF1.de@SD",MDF.1 (1080p)
+#EXTINF:-1 tvg-id="MDF1.de@SD",MDF.1
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
-#EXTINF:-1 tvg-id="MoreThanSportsTV.de@SD",More Than Sports TV (1080p)
+#EXTINF:-1 tvg-id="MoreThanSportsTV.de@SD",More Than Sports TV
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-id="Motorvision.de@SD",Motorvision TV (720p)
+#EXTINF:-1 tvg-id="Motorvision.de@SD",Motorvision TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1 tvg-id="ntv.de@SD",n-tv (1080p)
+#EXTINF:-1 tvg-id="ntv.de@SD",n-tv
 https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
 #EXTINF:-1 tvg-id="ntv.de@SD",n-tv
 https://viamotionhsi.netplus.ch/live/eds/ntv/browser-dash/ntv.mpd
 #EXTINF:-1 tvg-id="NDRFernsehen.de@Hamburg",NDR Fernsehen
 https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8
-#EXTINF:-1 tvg-id="NDRFernsehenInternational.de@SD",NDR Fernsehen International (720p)
+#EXTINF:-1 tvg-id="NDRFernsehenInternational.de@SD",NDR Fernsehen International
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
-#EXTINF:-1 tvg-id="NickComedyCentralPlus1.de@HD",Nick/Comedy Central +1 HD (1080p)
+#EXTINF:-1 tvg-id="NickComedyCentralPlus1.de@HD",Nick/Comedy Central +1 HD
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
 #EXTINF:-1 tvg-id="NickComedyCentralPlus1.de@HD",Nick/Comedy Central +1 HD
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-dash/comedycentralnick.mpd
 #EXTINF:-1 tvg-id="Nickelodeon.de@SD",Nickelodeon
 https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
-#EXTINF:-1 tvg-id="Nitro.de@HD",Nitro HD (1080p)
+#EXTINF:-1 tvg-id="Nitro.de@HD",Nitro HD
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
 #EXTINF:-1 tvg-id="Nitro.de@HD",Nitro HD
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
-#EXTINF:-1 tvg-id="OneMusicTelevision.de@SD",ONE1 Music (1080p)
+#EXTINF:-1 tvg-id="OneMusicTelevision.de@SD",ONE1 Music
 https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
 #EXTINF:-1 tvg-id="phoenix.de@HD",phoenix
 https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-dash/phoenixhd.mpd
 #EXTINF:-1 tvg-id="phoenix.de@HD",phoenix
 https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
-#EXTINF:-1 tvg-id="QVCZwei.de@SD",QVC 2 Germany (540p)
+#EXTINF:-1 tvg-id="QVCZwei.de@SD",QVC 2 Germany
 https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
-#EXTINF:-1 tvg-id="QVC.de@SD",QVC Germany (720p)
+#EXTINF:-1 tvg-id="QVC.de@SD",QVC Germany
 https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
-#EXTINF:-1 tvg-id="QVCStyle.de@SD",QVC Style Germany (540p)
+#EXTINF:-1 tvg-id="QVCStyle.de@SD",QVC Style Germany
 https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
 #EXTINF:-1 tvg-id="RTL.de@SD",RTL
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
@@ -99,46 +99,46 @@ https://strm.hdtvizlecanli.com/live/rtl.m3u8
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 #EXTINF:-1 tvg-id="RTLSuper.de@SD",RTL Super
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
-#EXTINF:-1 tvg-id="RTLZwei.de@HD",RTL Zwei HD (1080p)
+#EXTINF:-1 tvg-id="RTLZwei.de@HD",RTL Zwei HD
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
 #EXTINF:-1 tvg-id="RTLZwei.de@HD",RTL Zwei HD
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
-#EXTINF:-1 tvg-id="SRFernsehen.de@SD",SR Fernsehen (720p)
+#EXTINF:-1 tvg-id="SRFernsehen.de@SD",SR Fernsehen
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-#EXTINF:-1 tvg-id="SRF.de@SD",SRF (1080p)
+#EXTINF:-1 tvg-id="SRF.de@SD",SRF
 https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="RTLSuper.de@HD" http-referrer="https://www.2ix2.com/super-rtl-live/",Super RTL HD (720p)
+#EXTINF:-1 tvg-id="RTLSuper.de@HD" http-referrer="https://www.2ix2.com/super-rtl-live/",Super RTL HD
 #EXTVLCOPT:http-referrer=https://www.2ix2.com/super-rtl-live/
 https://forsizero.github.io/iptv/m3u/superrtlhd.m3u
-#EXTINF:-1 tvg-id="tagesschau24.de@SD",Tagesschau 24 (720p)
+#EXTINF:-1 tvg-id="tagesschau24.de@SD",Tagesschau 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-id="VolksmusikTV.de@SD",Volksmusik TV (1080p)
+#EXTINF:-1 tvg-id="VolksmusikTV.de@SD",Volksmusik TV
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="VOX.de@SD",VOX
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
-#EXTINF:-1 tvg-id="WDR1Live.de@SD",WDR 1 Live (720p)
+#EXTINF:-1 tvg-id="WDR1Live.de@SD",WDR 1 Live
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
-#EXTINF:-1 tvg-id="WDR1Live.de@SD",WDR 1 Live (720p)
+#EXTINF:-1 tvg-id="WDR1Live.de@SD",WDR 1 Live
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehen.de@Koln",WDR Fernsehen (720p)
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Koln",WDR Fernsehen
 https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-id="WELT.de@SD",WELT (1080p)
+#EXTINF:-1 tvg-id="WELT.de@SD",WELT
 https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
 #EXTINF:-1 tvg-id="WELT.de@SD",WELT
 https://s6.hopslan.com/n24X/index.m3u8
-#EXTINF:-1 tvg-id="WeltderWunderTV.de@SD",Welt der Wunder TV (576p)
+#EXTINF:-1 tvg-id="WeltderWunderTV.de@SD",Welt der Wunder TV
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-#EXTINF:-1 tvg-id="ZDF.de@HD",ZDF HD (720p)
+#EXTINF:-1 tvg-id="ZDF.de@HD",ZDF HD
 https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
-#EXTINF:-1 tvg-id="ZDF.de@HD",ZDF HD (720p)
+#EXTINF:-1 tvg-id="ZDF.de@HD",ZDF HD
 https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
-#EXTINF:-1 tvg-id="ZDFinfo.de@HD",ZDFinfo HD (720p)
+#EXTINF:-1 tvg-id="ZDFinfo.de@HD",ZDFinfo HD
 https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
-#EXTINF:-1 tvg-id="ZDFinfo.de@HD",ZDFinfo HD (720p)
+#EXTINF:-1 tvg-id="ZDFinfo.de@HD",ZDFinfo HD
 https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de@HD",ZDFneo HD (720p)
+#EXTINF:-1 tvg-id="ZDFneo.de@HD",ZDFneo HD
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
-#EXTINF:-1 tvg-id="ZDFneo.de@HD",ZDFneo HD (720p)
+#EXTINF:-1 tvg-id="ZDFneo.de@HD",ZDFneo HD
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
-#EXTINF:-1 tvg-id="ZweiMusicTelevision.de@SD",ZWEI2 Music (1080p)
+#EXTINF:-1 tvg-id="ZweiMusicTelevision.de@SD",ZWEI2 Music
 https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
